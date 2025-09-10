@@ -38,3 +38,6 @@
 </div>
 
 ###
+
+  <img alt="my stats" align="left" width="47px" src="https://github-readme-stats.vercel.app/api?username=analyse-with-precious"/>
+  <img alt="top langs" align="left" width="47px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyse-with-precious&layout=compact"/>
